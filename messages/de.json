@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-nachrichtenformat",
+  "error_auth_cancelled": "Authentifizierung abgebrochen",
+  "error_auth_failed": "Authentifizierung fehlgeschlagen",
+  "login": "Mit Spotify anmelden",
+  "lyrics_disabled": "Songtexte sind auf kleinen Bildschirmen deaktiviert.",
+  "no_lyrics": "Keine Liedtexte für dieses Lied verfügbar.",
+  "nothing_playing": "Nichts wird abgespielt",
+  "nothing_playing_subtitle": "Spiele einen Song auf Spotify, um zu sehen, was du hörst.",
+  "subtitle": "Melde dich bei Spotify an, um zu sehen, was du gerade hörst.",
+  "title": "Now Playing Spotify",
+  "toolbar_alternative": "Alternative Gestaltung umschalten",
+  "toolbar_fullscreen": "Vollbild umschalten",
+  "toolbar_logout": "Abmelden",
+  "toolbar_lyrics": "Songtexte umschalten"
+}

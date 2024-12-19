@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "error_auth_cancelled": "認証がキャンセルされました",
+  "error_auth_failed": "認証に失敗しました",
+  "login": "Spotifyでログイン",
+  "lyrics_disabled": "小さい画面では歌詞が無効になっています。",
+  "no_lyrics": "この曲の歌詞は利用できません。",
+  "nothing_playing": "再生中のものはありません",
+  "nothing_playing_subtitle": "Spotifyで曲を再生して、聴いているものを確認してください。",
+  "subtitle": "Spotifyにログインして、現在聴いている曲を確認しましょう。",
+  "title": "Now Playing Spotify",
+  "toolbar_alternative": "代替デザインの切り替え",
+  "toolbar_fullscreen": "全画面表示の切り替え",
+  "toolbar_logout": "ログアウト",
+  "toolbar_lyrics": "歌詞の切り替え"
+}

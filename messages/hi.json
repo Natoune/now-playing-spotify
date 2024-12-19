@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "error_auth_cancelled": "प्रमाणीकरण रद्द किया गया",
+  "error_auth_failed": "प्रमाणीकरण विफल",
+  "login": "स्पॉटिफाई के साथ लॉगिन करें",
+  "lyrics_disabled": "छोटे स्क्रीन पर गीत अक्षम हैं।",
+  "no_lyrics": "इस गाने के लिए कोई गीत उपलब्ध नहीं है।",
+  "nothing_playing": "कुछ भी नहीं चल रहा है",
+  "nothing_playing_subtitle": "देखें कि आप क्या सुन रहे हैं, इसके लिए Spotify पर एक गाना चलाएं।",
+  "subtitle": "यह देखने के लिए Spotify के साथ लॉगिन करें कि आप वर्तमान में क्या सुन रहे हैं।",
+  "title": "Now Playing Spotify",
+  "toolbar_alternative": "वैकल्पिक डिज़ाइन टॉगल करें",
+  "toolbar_fullscreen": "पूर्ण स्क्रीन टॉगल करें",
+  "toolbar_logout": "लॉगआउट",
+  "toolbar_lyrics": "गीत चालू/बंद करें"
+}

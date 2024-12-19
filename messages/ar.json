@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "error_auth_cancelled": "تم إلغاء المصادقة",
+  "error_auth_failed": "فشل التحقق",
+  "login": "تسجيل الدخول باستخدام سبوتيفاي",
+  "lyrics_disabled": "تم تعطيل كلمات الأغاني على الشاشات الصغيرة.",
+  "no_lyrics": "لا توجد كلمات متاحة لهذه الأغنية.",
+  "nothing_playing": "لا شيء يعمل",
+  "nothing_playing_subtitle": "قم بتشغيل أغنية على Spotify لمعرفة ما تستمع إليه.",
+  "subtitle": "سجل الدخول باستخدام Spotify لمعرفة ما تستمع إليه حاليًا.",
+  "title": "Now Playing Spotify",
+  "toolbar_alternative": "تبديل التصميم البديل",
+  "toolbar_fullscreen": "تبديل ملء الشاشة",
+  "toolbar_logout": "تسجيل الخروج",
+  "toolbar_lyrics": "تبديل الكلمات"
+}

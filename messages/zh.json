@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "error_auth_cancelled": "身份验证已取消",
+  "error_auth_failed": "认证失败",
+  "login": "使用 Spotify 登录",
+  "lyrics_disabled": "小屏幕上禁用歌词。",
+  "no_lyrics": "此歌曲暂无歌词。",
+  "nothing_playing": "没有播放",
+  "nothing_playing_subtitle": "在 Spotify 上播放歌曲以查看您正在收听的内容。",
+  "subtitle": "使用 Spotify 登录以查看您当前正在收听的内容。",
+  "title": "Now Playing Spotify",
+  "toolbar_alternative": "切换替代设计",
+  "toolbar_fullscreen": "切换全屏",
+  "toolbar_logout": "登出",
+  "toolbar_lyrics": "切换歌词"
+}

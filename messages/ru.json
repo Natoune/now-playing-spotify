@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "error_auth_cancelled": "Аутентификация отменена",
+  "error_auth_failed": "Ошибка аутентификации",
+  "login": "Войти через Spotify",
+  "lyrics_disabled": "Текст песен отключен на маленьких экранах.",
+  "no_lyrics": "Тексты для этой песни недоступны.",
+  "nothing_playing": "Ничего не играет",
+  "nothing_playing_subtitle": "Воспроизведите песню в Spotify, чтобы увидеть, что вы слушаете.",
+  "subtitle": "Войдите через Spotify, чтобы увидеть, что вы сейчас слушаете.",
+  "title": "Now Playing Spotify",
+  "toolbar_alternative": "Переключить альтернативный дизайн",
+  "toolbar_fullscreen": "Переключить полноэкранный режим",
+  "toolbar_logout": "Выйти",
+  "toolbar_lyrics": "Переключить текст песни"
+}

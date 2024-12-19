@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "error_auth_cancelled": "Autenticação cancelada",
+  "error_auth_failed": "Falha na autenticação",
+  "login": "Entrar com Spotify",
+  "lyrics_disabled": "As letras estão desativadas em telas pequenas.",
+  "no_lyrics": "Nenhuma letra disponível para esta música.",
+  "nothing_playing": "Nada tocando",
+  "nothing_playing_subtitle": "Reproduza uma música no Spotify para ver o que você está ouvindo.",
+  "subtitle": "Faça login com o Spotify para ver o que você está ouvindo no momento.",
+  "title": "Now Playing Spotify",
+  "toolbar_alternative": "Alternar Design Alternativo",
+  "toolbar_fullscreen": "Alternar tela cheia",
+  "toolbar_logout": "Sair",
+  "toolbar_lyrics": "Alternar Letras"
+}

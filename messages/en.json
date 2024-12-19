@@ -1,0 +1,16 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "error_auth_cancelled": "Authentication cancelled",
+  "error_auth_failed": "Authentication failed",
+  "login": "Login with Spotify",
+  "lyrics_disabled": "Lyrics are disabled on small screens.",
+  "no_lyrics": "No lyrics available for this song.",
+  "nothing_playing": "Nothing playing",
+  "nothing_playing_subtitle": "Play a song on Spotify to see what you're listening to.",
+  "subtitle": "Login with Spotify to see what you're currently listening to.",
+  "title": "Now Playing Spotify",
+  "toolbar_alternative": "Toggle Alternative Design",
+  "toolbar_fullscreen": "Toggle Fullscreen",
+  "toolbar_logout": "Logout",
+  "toolbar_lyrics": "Toggle Lyrics"
+}
