@@ -14,7 +14,7 @@ export function redirect(location: string): void {
 		)
 			? i18n.getLanguageFromUrl(new URL(window.location.href))
 			: undefined;
-		const languageNavigator = navigator.language.split("-")[0];
+		const languageNavigator = navigator.language.slice(0, 2);
 
 		const language = languageUrl || languageNavigator;
 		const pathWithLanguage = i18n.resolveRoute(
